@@ -1,0 +1,51 @@
+section #serv{
+margin-left:100px;
+}
+section #design{
+width:60%;
+height:120px;
+background:#32a87d;
+margin-left:80px;
+margin-bottom:10px;
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+}
+section #maintainance{
+width:60%;
+height:120px;
+background:#32a87d;
+margin-left:80px;
+margin-bottom:10px;
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+}
+section #hosting{
+width:60%;
+height:120px;
+background:#32a87d;
+margin-left:80px;
+margin-bottom:10px;
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+}
+section #Quote{
+	float:right;
+	height:220px;
+	width:350px;
+	background:blue;
+	margin-right:50px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+section #quote label,input,button,h3{
+margin-left:10px;}
+section #quote button{
+background:white;}
+footer p{
+	text-align:center;
+	height:70px;
+	padding-top:30px;
+background:#e8491d;}

@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>acme web designing|home</title>
+<meta name="description" content="acme Webdesigning">
+<meta name="keywords" content="webdesigning, webdevelopment">
+<meta name="viewport" content="width-devicewidth">
+
+<link rel="StyleSheet" href="./Style.css" >
+<link rel="StyleSheet" href="./aboutstyle.css" >
+
+</head>
+
+<body>
+<header>
+<div id="Main">
+<h1>Acme Web Design</h1>
+<nav id="about">
+<ul>
+<li><a href="HOME.html">Home</a></li>
+<li><a href="ABOUT.html">About</a></li>
+<li><a href="SERVICES.html">Services</a></li>
+</ul>
+</nav>
+
+</div>
+</header>
+
+<section>
+<div id="sub">
+<h3>Subscribe to our newsletter</h3>
+<form>
+<input type="email" placeholder="Enter Email">
+<button type="submit" >Subscribe</button>
+</form>
+</div>
+
+<div id="hello">
+<div id="about-us">
+
+<h3>About Us</h3>
+<p id="para1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<br>
+<p id="para2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+</div>
+
+<aside id="sidebar">
+<div>
+<h3> What We Do </h3>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div></aside>
+
+</div>
+
+</section>
+
+<footer>
+<p id="last">Acme Web Deisgn, Copyright &copy; 2017</p>
+</footer>
+
+</body>
+</html>

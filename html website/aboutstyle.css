@@ -1,0 +1,35 @@
+#about-us{
+margin:30px;
+margin-left:70px;
+    margin-right:0px;
+padding-right:0px;
+padding-top:30px;
+width:60%;
+}
+#sidebar{
+width:30%;
+float:right;
+background-color:#526382;
+color:white;
+margin:30px;
+margin-top:60px;
+margin-left:0px;
+margin-right:20px;
+padding-top:30px;
+padding-left:10px;
+padding-right:10px;
+}
+
+#about-us #para2{
+background-color:#526382;
+color:white;
+padding-left:10px;
+padding-right:10px;
+
+}
+
+footer p{
+	text-align:center;
+	height:70px;
+	padding-top:30px;
+background:#e8491d;}
